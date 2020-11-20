@@ -1,3 +1,3 @@
 # StefanLinkAcademy2020
 
-Hello this is my first project!
+Hello! This is my first HTML & CSS project.

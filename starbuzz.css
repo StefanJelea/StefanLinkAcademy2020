@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+    font-family: sans-serif;
+    
+}
+h1 {
+    color: darkcyan;
+    font-size: 25px;
+}
+h3{
+    color: tomato;
+}
+h5{
+    color: darksalmon;
+}

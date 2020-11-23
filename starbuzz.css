@@ -15,8 +15,15 @@ h3{
     color: tomato;
     font-size: 1.3em;
     font-weight: bolder;
+    text-decoration: underline;
 }
 h5{
     color: darksalmon;
     font-size: 0.9em;
+}
+.pret-vechi{
+    text-decoration-line: line-through;
+    text-decoration-color: red;
+    text-decoration-thickness: 3px;
+    text-decoration-style: dotted;
 }

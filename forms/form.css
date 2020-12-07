@@ -1,0 +1,21 @@
+input{
+    display: block;
+    margin: 0.2em 0 0.7em 0;
+}
+button{
+    display: block;
+    background-color: green;
+    color: white;
+    border-style: none;
+    padding: 0.5em;
+    width: 7em;
+    border-radius: 0.5em;
+}
+label{
+    font-family: sans-serif;
+    display: block;
+}
+select{
+    display: block;
+    margin-bottom: 0.5em;
+}
